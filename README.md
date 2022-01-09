@@ -1,4 +1,4 @@
-# OMG-Cable-Scripts
+# OMG-Cable-Android-Script
 
 ## Upload Malicious APK to Android Device with an OMG Cable
 

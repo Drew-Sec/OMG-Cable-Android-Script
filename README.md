@@ -7,3 +7,6 @@
 ### POC Videos
 #### Install Malicious APK
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aBZEvnvPAtk/0.jpg)](https://www.youtube.com/watch?v=aBZEvnvPAtk)
+
+#### Adding Gmail Forwarding Persistence
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yu2bvAcW4Rc/0.jpg)](https://www.youtube.com/watch?v=yu2bvAcW4Rc)

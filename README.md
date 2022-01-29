@@ -1,6 +1,6 @@
 # OMG-Cable-Android-Scripts
 
-## A collection of Ducky Scripts for OMG Cables
+## A Collection of Ducky Scripts for OMG Cables
 
 **These scripts are for educational and pentesting purposes only!! Use at your own risk!**
 
